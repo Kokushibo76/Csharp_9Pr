@@ -1,0 +1,28 @@
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\9 praktos.exe.config
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\9 praktos.exe
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\9 praktos.pdb
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\9 praktos.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\MainWindow.g.cs
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\App.g.cs
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\9 praktos_MarkupCompile.cache
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\9 praktos_MarkupCompile.lref
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\MainWindow.baml
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\9 praktos.g.resources
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\_9_praktos.Properties.Resources.resources
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\9 praktos.csproj.GenerateResource.cache
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\9 praktos.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\9 praktos.exe
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\9 praktos.pdb
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\Excel.g.cs
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\Word.g.cs
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\MaterialDesignColors.dll
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\Excel.baml
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\Word.baml
+C:\Users\Matt\Desktop\техникум\2-й курс\2-й семестр\Системное программирование\9 praktos\9 praktos\obj\Debug\9 praktos.csproj.CopyComplete
